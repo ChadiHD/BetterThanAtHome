@@ -1,0 +1,6 @@
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHomeDB\bin\Debug\BetterThanHome.DataBase.dacpac
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHomeDB\bin\Debug\BetterThanHomeDB.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHomeDB\bin\Debug\BetterThanHomeDB.pdb
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHomeDB\obj\Debug\BetterThanHome.DataBase.sqlproj.AssemblyReference.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHomeDB\obj\Debug\BetterThanHomeDB.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHomeDB\obj\Debug\BetterThanHomeDB.pdb

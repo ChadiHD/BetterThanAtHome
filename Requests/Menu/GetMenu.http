@@ -1,0 +1,3 @@
+@id = 80be81df-22f6-4337-be03-87779896f473
+
+GET  http://localhost:5148/menus/{{id}}

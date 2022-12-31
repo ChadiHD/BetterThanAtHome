@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Delivery] (Table)
+       [dbo].[Dish] (Table)
+       [dbo].[FinalTransactionReceipt] (Table)
+       [dbo].[Guest] (Table)
+       [dbo].[Menu] (Table)
+       [dbo].[Order] (Table)
+       [dbo].[Payment] (Table)
+       [dbo].[Staff] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Delivery] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Dish] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[FinalTransactionReceipt] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Order] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Payment] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Staff] (Default Constraint)
+
+** Supporting actions
