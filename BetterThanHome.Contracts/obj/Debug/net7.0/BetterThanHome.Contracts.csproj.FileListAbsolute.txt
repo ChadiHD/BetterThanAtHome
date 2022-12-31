@@ -1,0 +1,12 @@
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\bin\Debug\net7.0\BetterThanHome.Contracts.deps.json
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\bin\Debug\net7.0\BetterThanHome.Contracts.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\bin\Debug\net7.0\BetterThanHome.Contracts.pdb
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.csproj.AssemblyReference.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.AssemblyInfoInputs.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.AssemblyInfo.cs
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\refint\BetterThanHome.Contracts.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\BetterThanHome.Contracts.pdb
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Contracts\obj\Debug\net7.0\ref\BetterThanHome.Contracts.dll
