@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <PackageReference Include="ErrorOr" Version="1.2.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BetterThanHome.Application\BetterThanHome.Application.csproj" />
+    <ProjectReference Include="..\BetterThanHome.Contracts\BetterThanHome.Contracts.csproj" />
+    <ProjectReference Include="..\BetterThanHome.Infrastructure\BetterThanHome.Infrastructure.csproj" />
+    <ProjectReference Include="..\BetterThanHomeDB\BetterThanHome.DataBase.sqlproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Routing\" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+</Project>
