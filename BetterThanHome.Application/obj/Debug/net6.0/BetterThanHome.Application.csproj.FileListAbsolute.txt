@@ -1,0 +1,15 @@
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.csproj.AssemblyReference.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.AssemblyInfoInputs.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.AssemblyInfo.cs
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.csproj.CoreCompileInputs.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\bin\Debug\net6.0\BetterThanHome.Application.deps.json
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\bin\Debug\net6.0\BetterThanHome.Application.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\bin\Debug\net6.0\BetterThanHome.Application.pdb
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.csproj.CopyComplete
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\refint\BetterThanHome.Application.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\BetterThanHome.Application.pdb
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\obj\Debug\net6.0\ref\BetterThanHome.Application.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\bin\Debug\net6.0\BetterThanHome.Contracts.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\BetterThanHome\BetterThanHome.Application\bin\Debug\net6.0\BetterThanHome.Contracts.pdb
